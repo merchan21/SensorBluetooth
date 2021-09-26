@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ConexionBlu">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="text"
+        android:id="@+id/TextoEnviar"
+        >
+
+    </EditText>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/TextoEnviar"
+        android:text="@string/enviar"
+        android:id="@+id/Enviar"
+        android:background="@color/colorAccent">
+
+    </Button>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/Enviar"
+        android:id="@+id/Console"
+        android:textSize="30dp"
+        android:textColor="@color/colorAccent"
+        >
+
+
+    </TextView>
+
+
+</RelativeLayout>
