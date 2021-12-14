@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "863528103422",
+    "firebase_url": "https://junta-6ada1.firebaseio.com",
+    "project_id": "junta-6ada1",
+    "storage_bucket": "junta-6ada1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863528103422:android:176ef1ca50551041a3e4af",
+        "android_client_info": {
+          "package_name": "com.vana.blue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863528103422-v85cvn1iqbc2v644e5hnbbm010ji3j1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz17IzZrzjK-NaCjPHHGCdfNqXYwEsCH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863528103422-v85cvn1iqbc2v644e5hnbbm010ji3j1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

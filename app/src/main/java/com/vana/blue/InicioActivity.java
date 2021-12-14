@@ -18,7 +18,7 @@ public class InicioActivity extends AppCompatActivity {
         TimerTask tarea = new TimerTask() {
             @Override
             public void run() {
-                Intent intent = new Intent(InicioActivity.this, PrincipalActivity.class);
+                Intent intent = new Intent(InicioActivity.this, Pantalla_Activity.class);
                 startActivity(intent);
                 finish();
             }
